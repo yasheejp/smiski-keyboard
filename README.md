@@ -1,16 +1,10 @@
 # smiski keyboard
 
-# **hackboard/how it will fit together**
-<img width="1027" height="836" alt="image" src="https://github.com/user-attachments/assets/a9d5ecb8-4cb0-478e-b74a-a0612cd45b5f" />
+# **hackboard/how it will fit together** <img width="1027" height="836" alt="image" src="https://github.com/user-attachments/assets/a9d5ecb8-4cb0-478e-b74a-a0612cd45b5f" />
 
+# **schematic** <img width="894" height="884" alt="image" src="https://github.com/user-attachments/assets/3aca0bad-1217-4122-8fb0-730246aa973a" />
 
-# **schematic**
-<img width="894" height="884" alt="image" src="https://github.com/user-attachments/assets/3aca0bad-1217-4122-8fb0-730246aa973a" />
-
-
-# **pcb**
-<img width="673" height="913" alt="image" src="https://github.com/user-attachments/assets/1fedb594-3a0f-4036-b040-1cc23823a886" />
-
+# **pcb** <img width="673" height="913" alt="image" src="https://github.com/user-attachments/assets/1fedb594-3a0f-4036-b040-1cc23823a886" />
 
 # **bom**
 - Seeed XIAO RP2040 x1
