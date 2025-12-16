@@ -1,6 +1,6 @@
-# smiskikeyboard
+# smiski keyboard
 
-![smiskikeyboard](https://imgur.com/a/RZaiY7O)
+![smiski keyboard](https://imgur.com/a/RZaiY7O)
 
 This keyboard layout features a compact 2x2 grid of four clearly labelled buttons designed for quick access to common text-editing functions:
 
