@@ -23,7 +23,7 @@ It has 2 separate 3D printed pieces. One for the case top that sits on top of th
 - M4x16mm screws x4
 - Case (2 separate 3D printed parts) x1
 
-
+# Firmware
 * Keyboard Maintainer: [yashee pasoquen](https://github.com/yasheejp)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
