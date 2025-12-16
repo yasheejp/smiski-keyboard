@@ -1,27 +1,30 @@
-# smiski keyboard
+# Smiski Keyboard
 
-# **hackboard/how it will fit together** <img width="1027" height="836" alt="image" src="https://github.com/user-attachments/assets/a9d5ecb8-4cb0-478e-b74a-a0612cd45b5f" />
+The Smiski keyboard is a 4-key macropad with 2 SK6812MINI LEDS, and uses QMK firmware
 
-# **schematic** <img width="894" height="884" alt="image" src="https://github.com/user-attachments/assets/3aca0bad-1217-4122-8fb0-730246aa973a" />
+# Features
+- Custom-designed 3D printed smiski case
+- 2 SK6812MINI LEDS that diffuse under the case
+- 4 keys
 
-# **pcb** <img width="673" height="913" alt="image" src="https://github.com/user-attachments/assets/1fedb594-3a0f-4036-b040-1cc23823a886" />
+# CAD Model
+<img width="1027" height="836" alt="image" src="https://github.com/user-attachments/assets/a9d5ecb8-4cb0-478e-b74a-a0612cd45b5f" />
+Everything fits with 4 M4x16mm screws.
+It has 2 separate 3D printed pieces. One for the case top that sits on top of the PCB, and one for the case base.
 
-**bom** 
+# PCB
+My PCB was made using KiCAD
+**schematic** <img width="894" height="884" alt="image" src="https://github.com/user-attachments/assets/3aca0bad-1217-4122-8fb0-730246aa973a" />
+
+**pcb** <img width="673" height="913" alt="image" src="https://github.com/user-attachments/assets/1fedb594-3a0f-4036-b040-1cc23823a886" />
+
+**BOM** 
 - Seeed XIAO RP2040 x1
 - Cherry MX switches x4
 - PCB x1 - Blank DSA keycaps x4
 - M4x16mm screws x4
+- Case (2 separate 3D printed parts) x1
 
-
-This keyboard layout features a compact 2x2 grid of four clearly labelled buttons designed for quick access to common text-editing functions:
-
-Top Row:
-- All: Likely used to select all content within a document or field.
-- Cut: Removes selected content and places it on the clipboard.
-
-Bottom Row:
-- Copy: Duplicates selected content to the clipboard without removing it.
-- Paste: Inserts clipboard content at the current cursor position.
 
 * Keyboard Maintainer: [yashee pasoquen](https://github.com/yasheejp)
 * Hardware Supported: *The PCBs, controllers supported*
