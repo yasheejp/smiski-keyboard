@@ -12,11 +12,9 @@ The Smiski keyboard is a 4-key macropad with 2 SK6812MINI LEDS, and uses QMK fir
 Everything fits with 4 M4x16mm screws.
 It has 2 separate 3D printed pieces. One for the case top that sits on top of the PCB, and one for the case base.
 
-# PCB
-My PCB was made using KiCAD
-**schematic** <img width="894" height="884" alt="image" src="https://github.com/user-attachments/assets/3aca0bad-1217-4122-8fb0-730246aa973a" />
-
-**pcb** <img width="673" height="913" alt="image" src="https://github.com/user-attachments/assets/1fedb594-3a0f-4036-b040-1cc23823a886" />
+# PCB My PCB was made using KiCAD
+# **schematic** <img width="894" height="884" alt="image" src="https://github.com/user-attachments/assets/3aca0bad-1217-4122-8fb0-730246aa973a" />
+# **pcb** <img width="673" height="913" alt="image" src="https://github.com/user-attachments/assets/1fedb594-3a0f-4036-b040-1cc23823a886" />
 
 **BOM** 
 - Seeed XIAO RP2040 x1
