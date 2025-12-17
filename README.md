@@ -8,7 +8,7 @@ The Smiski keyboard is a 4-key macropad with 2 SK6812MINI LEDS, and uses QMK fir
 - 4 keys
 
 # CAD Model
-<img width="1027" height="836" alt="image" src="https://github.com/user-attachments/assets/a9d5ecb8-4cb0-478e-b74a-a0612cd45b5f" />
+<img width="1159" height="1066" alt="image" src="https://github.com/user-attachments/assets/c6163e51-f7f3-4fab-b1c1-9665b16a591f" />
 Everything fits with 4 M4x16mm screws.
 It has 2 separate 3D printed pieces. One for the case top that sits on top of the PCB, and one for the case base.
 
